@@ -64,7 +64,6 @@ cd client
 npm run dev
 ```
 
-Visit [http://localhost:5173](http://localhost:5173) to see the app!
 
 ## 📜 License
 
