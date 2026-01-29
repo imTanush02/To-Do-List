@@ -1,4 +1,4 @@
-# Antigravity Task Manager 🚀
+#  Task Manager 🚀
 
 A premium, full-stack task management application with a focus on simplicity and elegant design. Build with React, Node.js, and Tailwind CSS.
 
@@ -6,7 +6,6 @@ A premium, full-stack task management application with a focus on simplicity and
 
 - **Authentication**: Secure signup and login with standard JWT implementation.
 - **Board-based Organization**: Create multiple boards for different projects or areas of your life.
-- **Kanban Flow**: Manage tasks across "Pending", "In Progress", and "Completed" states.
 - **Premium UI**: Modern dark-mode aesthetic with glassmorphism and smooth transitions.
 - **Responsive**: Fully optimized for various screen sizes.
 
@@ -45,7 +44,7 @@ Create a `.env` file in the `server` directory:
 
 ```env
 PORT=5000
-MONGO_URI=mongodb://localhost:27017/todo-app
+MONGO_URI=mongodb+srv://ts11145t_db_user:nci8xP8EGScX3auI@cluster0.rzapysd.mongodb.net/todo-app
 JWT_SECRET=your_super_secret_key_here
 ```
 
